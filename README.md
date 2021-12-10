@@ -1,6 +1,7 @@
 # **Play Idle Breakout unblocked at school!**
 
 #  *Terms of Service* 
+###### Last updated on  *December 10, 2021 17:20 EST*
 
 ## *Overview*
 The content of this program is for your general information and use only. It is subject to change without notice. You must be at least 13 years of age to use this program. If you are not at least 13 years of age do not use this program. By playing this game and running this program, you confirm that you are at least 13 years of age and you have read and fully understood these terms & conditions.
