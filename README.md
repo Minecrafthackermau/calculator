@@ -3,7 +3,7 @@
 #  *Terms of Service* 
 
 ## *Overview*
-The content of the pages of this program is for your general information and use only. It is subject to change without notice. You must be at least 13 years of age to use this site. If you are not at least 13 years of age do not use this site. By playing this game and being on this site you confirm that you are at least 13 years of age and you have read and fully understood these terms & conditions.
+The content of this program is for your general information and use only. It is subject to change without notice. You must be at least 13 years of age to use this program. If you are not at least 13 years of age do not use this program. By playing this game and running this program, you confirm that you are at least 13 years of age and you have read and fully understood these terms & conditions.
 
 ##  *1. Definitions* 
   "I" or "me" refers to the creator/owner of https://math-gizmos.github.io/calculator/ (math-gizmos).
