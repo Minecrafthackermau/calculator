@@ -1,11 +1,10 @@
 # **Play Idle Breakout unblocked at school!**
 
 #  *Terms of Service* 
-###### Last updated on  *December 14, 2021 9:17 EST*
-
+###### Last updated on  *December 14, 2021 9:39 EST*
 
 ## *Overview*
-The content of this program is for your general information and use only. It is subject to change without notice. You must be at least 13 years of age to use this program. If you are not at least 13 years of age do not use this program. By playing this game and running this program, you confirm that you are at least 13 years of age and you have read and fully understood these terms & conditions.
+The content of this program is for your general information and use only. It is subject to change without notice. You must be at least 13 years of age to use this program. If you are not at least 13 years of age, do not use this program. By playing this game and running this program, you confirm that you have read and fully understood these Terms & Conditions and the Privacy Policy.
 
 ##  *1. Definitions* 
   "I" or "me" refers to the creator/owner of this [repository](https://math-gizmos.github.io/calculator/) (math-gizmos).
@@ -35,7 +34,7 @@ To "modify" means to change or copy this program without proper authorization fr
 
 
 # *Privacy Policy*
-###### Last updated on  *December 14, 2021 9:36 EST*
+###### Last updated on  *December 14, 2021 9:39 EST*
 
 Thank you for using Calculator! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have (and also because it's required by law). Because we’re an internet company, some of the concepts below are a little technical, but we’ve tried our best to explain things in a simple and clear way. We welcome your questions and comments on this policy.
 
@@ -60,7 +59,7 @@ These days, whenever you use a website, mobile application, or other Internet se
 In addition to log data, we may also collect information about the device you’re using the program on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, the IP address, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
 
 ## How do we use the information we collect?
-We will not sell your information to third party vendors but, we may use your data to suspend or terminate your access at any time without notice.
+We will not sell any of your information to third party vendors but, we may use your given data to suspend or terminate your access at any time without notice.
 
 ## How do we make changes to this policy?
 We may change this policy from time to time, and if we do we’ll post any changes on this page. If you continue to use the program after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide more prominent notice or obtain your consent as required by law.
